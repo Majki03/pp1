@@ -1,0 +1,11 @@
+phrase = len("computer science")
+letter = input("Enter letter: ")
+string = str(5068)
+numeric = int("20303")
+smallest = min(4, 7, 2, 3, 9, 8)
+
+print(phrase)
+print(letter)
+print(string)
+print(numeric)
+print(smallest)
