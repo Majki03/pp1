@@ -1,0 +1,11 @@
+largest = max(7, 5, 6, 3, 8, 2)
+binary = str(bin(304))
+hexa = str(hex(304))
+codeuni = ord("€")
+absolute = abs(-17)
+
+print(largest)
+print(binary)
+print(hexa)
+print(codeuni)
+print(absolute)
