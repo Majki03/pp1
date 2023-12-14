@@ -1,0 +1,10 @@
+{
+  "title": "The Wolf of Wall Street",
+  "year": 2013,
+  "actor": {
+    "leading": "Leonardo DiCaprio",
+    "supporting": "Margot Robbie"
+  },
+  "oscar": false,
+  "genre": "Criminal/Comedy"
+}
